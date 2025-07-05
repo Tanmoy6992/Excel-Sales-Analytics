@@ -29,7 +29,7 @@ Project objective:
  Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
-## Technical & Soft Skills:
+## Technical Skills:
 - 	Proficiency in ETL methodology (Extract, Transform, Load).
 - 	Skills to generate a date table using Power Query.
 - 	Ability to derive fiscal months and quarters.
